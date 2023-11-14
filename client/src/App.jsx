@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="App">Hello</div> 
+    <div className="App">Hello this is a new application</div> 
   )
 }
 
